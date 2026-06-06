@@ -1,0 +1,18 @@
+export const lightTheme = {
+    background: "#ffffff",
+    backgroundSeparator: "#cfcfcf",
+    text: "#000000",
+    textSecondary: "#5c5c5c",
+    textMuted: "#838383",
+    textHighlight: "#2FB4F1",
+    primary: "#95dcfb",
+    secondary: "#e4e4e4",
+    discount: "#00D44B",
+    mainNavBackground: "#ffffff",
+    mainNavIconActive: "#d070df",
+    mainNavIconInactive: "#9c9c9c",
+    menuItem: "#ededed",
+    greenHightlight: "#009833",
+    newsTag: "#d35fd3",
+    strokeTint: "#ffffff",
+};
